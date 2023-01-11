@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247431022962",
+    "project_id": "gossip-messenger-2171d",
+    "storage_bucket": "gossip-messenger-2171d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247431022962:android:d52ebab948d71f820cf5eb",
+        "android_client_info": {
+          "package_name": "com.app.gossipmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247431022962-do26hca9cshtk9kilcev6uvspelbspj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gossipmessenger",
+            "certificate_hash": "392eec94f00222a1937d343c02c2be6ef545637c"
+          }
+        },
+        {
+          "client_id": "247431022962-aanfeo7lhdgqu787mbo1jld0l8ujpc7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0cMyb1_2Bd0P8eXCl7aGfE30Dq8-lM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247431022962-aanfeo7lhdgqu787mbo1jld0l8ujpc7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
